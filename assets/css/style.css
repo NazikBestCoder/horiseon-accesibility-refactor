@@ -107,9 +107,9 @@ p {
 
 
 .benefit-brand img {
-    display: inline;
-    align-content: center;
-    margin: auto;
+    display: block;
+
+    margin: 0 auto;
     max-width: 150px;
     max-height: 140px;
 }
